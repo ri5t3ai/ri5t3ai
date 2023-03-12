@@ -35,3 +35,4 @@
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)](https://github.com/scipy/scipy)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/pandas-dev/pandas)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/matplotlib/matplotlib)
+[![OpenAI](https://img.shields.io/badge/OpenAI-%23FF6600.svg?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai)
